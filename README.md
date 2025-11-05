@@ -1,5 +1,5 @@
-# chatbot
+# Finance customer service chatbot
 This is an implementation of a simple chatbot in Spanish
 
 
-Note: Add instructions on how to download the dataset and create a virutal environment to run the project.
+Note: Add instructions for downloading the dataset and creating a virtual environment to run the project.
